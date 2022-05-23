@@ -1,6 +1,9 @@
 <div align="center">
 <img src="https://k.top4top.io/p_22589xjh10.jpg" alt="YOGI" width="360" />
+div align="center">
+<img src="https://k.top4top.io/p_22589xjh10.jpg" alt="YOGI" width="360" />
 
+</p>
 </p>
 <p align="center">
 <a href="#"><img title="AMELIA-BOTZ" src="https://img.shields.io/badge/AMELIABOTZ-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
